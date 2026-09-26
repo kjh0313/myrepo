@@ -4,4 +4,7 @@ Oss repo
 Repo is so hard. But it is neccessary.
 
 
-Licence is a Mit. And Please  remind my message.
+License is a Mit. And Please  remind my message.
+
+My favorite License is Mit. Beacause It is so cool and mystyle.
+
